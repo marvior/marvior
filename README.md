@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there! 👋
 
-<!--
-**marvior/marvior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a long-time programming enthusiast. My coding journey spans across generations of tech, from the foundations of **BASIC**, **Pascal**, and **Assembly** to **C** and **C++**. 
 
-Here are some ideas to get you started:
+After years of keeping my projects to myself, I'm turning a new page: I'm here to start fresh, learn modern stack technologies, and dive into new challenges with a beginner's mind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Past Highlights: TotemGO
+I previously developed **TotemGO**, a territory enhancement webapp featuring:
+* Augmented Reality (AR) & Virtual Reality (VR)
+* Georeferencing & Location-based services
+* RSS feeds integration with local news outlets
+
+#### 📜 From Code to History
+TotemGO sparked a deep passion for local heritage. Today, alongside coding, I actively contribute as a writer for a major history magazine in my hometown, **Pozzuoli** (Naples, Italy).
+
+*"Fascinated by history, driven by the future of code."*
