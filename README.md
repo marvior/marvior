@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there, I'm Walter Molino (Marvior)! 👋
 
 I'm a long-time programming enthusiast. My coding journey spans across generations of tech, from the foundations of **BASIC**, **Pascal**, and **Assembly** to **C** and **C++ Python**. 
 
