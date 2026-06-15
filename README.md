@@ -11,6 +11,6 @@ I previously developed **TotemGO**, a territory enhancement webapp featuring:
 * RSS feeds integration with local news outlets
 
 #### 📜 From Code to History
-TotemGO sparked a deep passion for local heritage. Today, alongside coding, I actively contribute as a writer for a major history magazine in my hometown, **Pozzuoli** (Naples, Italy).
+TotemGO sparked a deep passion for local heritage. Today, alongside coding, I actively contribute as a writer for a major history magazine in my hometown, Bollettino Flegreo **Pozzuoli** (Naples, Italy).
 
 *"Fascinated by history, driven by the future of code."*
