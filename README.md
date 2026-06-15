@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a long-time programming enthusiast. My coding journey spans across generations of tech, from the foundations of **BASIC**, **Pascal**, and **Assembly** to **C** and **C++**. 
+I'm a long-time programming enthusiast. My coding journey spans across generations of tech, from the foundations of **BASIC**, **Pascal**, and **Assembly** to **C** and **C++ Python**. 
 
 After years of keeping my projects to myself, I'm turning a new page: I'm here to start fresh, learn modern stack technologies, and dive into new challenges with a beginner's mind.
 
